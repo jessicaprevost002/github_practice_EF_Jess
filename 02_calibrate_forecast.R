@@ -1,4 +1,3 @@
-{r}
 ##' Calibrate aquatic forecast model
 calibrate_forecast <- function(target){
   fit <- list() 
