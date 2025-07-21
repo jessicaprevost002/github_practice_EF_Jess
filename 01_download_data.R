@@ -1,4 +1,3 @@
-{r}
 ##' Download Targets
 ##' @return data.frame in long format with days as rows, and time, site_id, variable, and observed as columns
 download_targets <- function(){
